@@ -1,0 +1,28 @@
+{
+  "name": "fifo-array",
+  "version": "0.1.1",
+  "description": "A fixed-length, first-in-first-out array.",
+  "repository": "https://github.com/ben-bradley/fifo-array",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "keywords": [
+    "fifo",
+    "first in first out",
+    "list",
+    "queue",
+    "fixed",
+    "array"
+  ],
+  "author": "Ben Bradley",
+  "license": "MIT",
+  "devDependencies": {
+    "should": "^4.0.4",
+    "mocha": "^1.20.1"
+  }
+}
