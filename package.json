@@ -1,6 +1,6 @@
 {
   "name": "fifo-array",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A fixed-length, first-in-first-out array.",
   "repository": "https://github.com/ben-bradley/fifo-array",
   "main": "index.js",

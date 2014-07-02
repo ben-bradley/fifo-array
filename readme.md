@@ -1,4 +1,4 @@
-# fifo-array
+# fifo-array [![NPM](https://nodei.co/npm/fifo-array.png)](https://nodei.co/npm/fifo-array/) [![Build Status](https://secure.travis-ci.org/ben-bradley/fifo-array.png)](http://travis-ci.org/ben-bradley/fifo-array)
 
 A fixed-length, first-in-first-out array for Javascript.
 
@@ -75,6 +75,12 @@ fifoArray.max = 10;
 fifoArray.push('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h');
 console.log(fifoArray); // => [ 1, 2, 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h' ]
 ```
+
+## Version History
+
+- 0.1.2 - Added readme.md bling
+- 0.1.1 - Initial release
+- 0.0.* - Internal development
 
 ## References
 
